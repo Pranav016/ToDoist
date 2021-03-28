@@ -1,7 +1,7 @@
-# ToDoList
+# mapMyDay
 
 ## About-
-- ToDoList is a dynamically updating daily schedule/ task keeper app, primarily developed using Node JS, Express and Mongoose.
+- mapMyDay is a dynamically updating daily schedule/ task keeper app, primarily developed using Node JS, Express and Mongoose.
 - It has been deployed using Heroku cloud platform and is available for use for everyone.
 - [Visit the Web App](https://tranquil-ravine-10842.herokuapp.com/)
 
